@@ -1,0 +1,1 @@
+sum, mts, mss, mps := (+ sum a), (max (+ mts a) 0), (max mss mts), (max mps (+ sum a))

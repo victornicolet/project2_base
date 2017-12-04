@@ -1,0 +1,1 @@
+a, b, c = (ite c b a), (vector-ref ar i), (&& (! (vector-ref ar i)) b)
